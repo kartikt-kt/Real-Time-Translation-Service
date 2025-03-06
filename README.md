@@ -53,8 +53,8 @@ A modern web application that provides real-time translation services across mul
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/real-time-translation-service.git
-   cd real-time-translation-service
+   git clone https://github.com/kartikt-kt/Real-Time-Translation-Service.git
+   cd Real-Time-Translation-Service
    ```
 
 2. Install Python dependencies:
@@ -94,9 +94,6 @@ A modern web application that provides real-time translation services across mul
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
